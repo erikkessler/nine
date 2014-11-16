@@ -29,5 +29,5 @@ The system keeps track of the player's biometric indicators.  You may wish
 to enter your birthday in win.c on the line:
    int BDay[] = { <month>, <day>, <year> };
 
-Enjoy!
+Enjoy!!
  Duane
